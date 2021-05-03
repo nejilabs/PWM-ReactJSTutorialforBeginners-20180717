@@ -1,4 +1,4 @@
-# PWM-ReactJsTutorialforBeginners-20180717
+# PWM-ReactJSTutorialforBeginners-20180717
 
 Programming With Mosh - React Tutorial for Beginners [React js] (Jul 17, 2018)
 React JS Tutorial - Get up & running with React JS: the most popular JavaScript library in the world! 
